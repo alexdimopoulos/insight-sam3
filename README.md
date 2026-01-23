@@ -1,4 +1,4 @@
-# INSIGHT — Indoor Scene Intelligence from Geometric-Semantic Hierarchy Transfer
+# INSIGHT — Indoor Scene Intelligence from Geometric-Semantic Hierarchy Transfer (SAM3)
 
 > Combining foundation model segmentation, metric 3D geometry, and interoperability standards to generate structured indoor spatial intelligence.
 
