@@ -1,0 +1,34 @@
+# INSIGHT - Indoor Scene Intelligence Pipeline
+# Python dependencies
+
+# NumPy (constrained for compatibility with Open3D and PyTorch)
+numpy>=1.24.0,<2.0
+
+# PyTorch - install with CUDA support for GPU acceleration
+# See https://pytorch.org/get-started/locally/ for platform-specific installation
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Transformers - SAM3 requires development version
+# Once SAM3 is released to PyPI, replace with: transformers>=4.45.0
+git+https://github.com/huggingface/transformers.git
+accelerate>=0.27.0
+huggingface_hub>=0.20.0
+timm>=0.9.0
+
+# Point cloud processing
+open3d>=0.17.0
+
+# Image & depth file processing
+OpenEXR>=3.2.0
+Pillow>=10.0.0
+opencv-python-headless>=4.8.0  # Headless version for Docker/server environments
+
+# Data structures & serialization
+networkx>=3.0
+h5py>=3.9.0
+scipy>=1.11.0
+
+# Utilities
+requests>=2.31.0
+rich>=13.0.0

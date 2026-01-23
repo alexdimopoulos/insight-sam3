@@ -1,0 +1,53 @@
+# Git
+.git/
+.gitignore
+
+# Documentation
+*.md
+!README.md
+LICENSE
+
+# Python caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Model weights (mounted as volume instead)
+model_weights/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Output directories (mounted as volume)
+output_results/
+
+# IDE and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp
+
+# Docker
+Dockerfile
+.dockerignore
+docker-compose*.yml
+
+# Testing and CI
+.github/
+tests/
+*.test.py
+
+# Logs and temp files
+*.log
+*.tmp
+.cache/
+.huggingface/
