@@ -2,7 +2,7 @@
 
 > Combining foundation model segmentation, metric 3D geometry, and interoperability standards to generate structured indoor spatial intelligence.
 
-[![Demo Video](https://img.youtube.com/vi/tpTiZaVsMBQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=0Rlql4ui6mA)
+[![Demo Video](https://img.youtube.com/vi/tpTiZaVsMBQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=tpTiZaVsMBQ)
 
 ---
 
