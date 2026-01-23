@@ -2,6 +2,7 @@
 
 > Combining foundation model segmentation, metric 3D geometry, and interoperability standards to generate structured indoor spatial intelligence.
 
+[![Demo Video](https://img.youtube.com/vi/0Rlql4ui6mA/maxresdefault.jpg)](https://www.youtube.com/watch?v=0Rlql4ui6mA)
 
 ---
 
@@ -56,6 +57,12 @@ The system produces two outputs:
 1. **Pointcept-compatible point clouds** with per-point semantic labels and instance IDs for training 3D models.
 
 2. **Lightweight scene graphs** encoding building structure as a queryable hierarchy—compressing tens of gigabytes of source geometry to single-digit megabytes, small enough to transmit over constrained networks.
+
+---
+
+## Example Point Cloud Segmentations
+
+[![Point Cloud Segmentation Examples](https://img.youtube.com/vi/2ktOWO9D2uA/maxresdefault.jpg)](https://www.youtube.com/watch?v=2ktOWO9D2uA)
 
 ---
 
