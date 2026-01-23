@@ -402,8 +402,22 @@ MIT
 ```bibtex
 @software{insight_2026,
   title={INSIGHT: Indoor Scene Intelligence from Geometric-Semantic Hierarchy Transfer},
-  author={Dimopoulos, Alex},
+  author={Dimopoulos, Alexander Nikitas},
   year={2026},
-  url={https://github.com/alexdimopoulos/insight}
+  url={https://github.com/alexdimopoulos/insight-sam3}
+}
+
+@article{carion_sam3_2025,
+  title={SAM 3: Segment Anything with Concepts},
+  author={Carion, Nicolas and Gustafson, Laura and Hu, Yuan-Ting and Debnath, Shoubhik and Hu, Ronghang and Suris, Didac and Ryali, Chaitanya and Alwala, Kalyan Vasudev and Khedr, Haitham and Huang, Andrew and Lei, Jie and Ma, Tengyu and Guo, Baishan and Kalla, Arpit and Marks, Markus and Greer, Joseph and Wang, Meng and Sun, Peize and R{\"a}dle, Roman and Afouras, Triantafyllos and Mavroudi, Effrosyni and Xu, Katherine and Wu, Tsung-Han and Zhou, Yu and Momeni, Liliane and Hazra, Rishi and Ding, Shuangrui and Vaze, Sagar and Porcher, Francois and Li, Feng and Li, Siyuan and Kamath, Aishwarya and Cheng, Ho Kei and Doll{\'a}r, Piotr and Ravi, Nikhila and Saenko, Kate and Zhang, Pengchuan and Feichtenhofer, Christoph},
+  journal={arXiv preprint arXiv:2511.16719},
+  year={2025}
+}
+
+@article{armeni_joint_2017,
+  title={Joint 2D-3D-Semantic Data for Indoor Scene Understanding},
+  author={Armeni, Iro and Sax, Sasha and Zamir, Amir R. and Savarese, Silvio},
+  journal={arXiv preprint arXiv:1702.01105},
+  year={2017}
 }
 ```
